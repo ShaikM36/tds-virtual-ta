@@ -1,0 +1,8 @@
+# OpenAI API Key (required)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Port (optional, defaults to 8000)
+PORT=8000
+
+# Environment
+ENVIRONMENT=production
